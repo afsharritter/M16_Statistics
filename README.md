@@ -66,10 +66,15 @@ The p-value for this first t-test is 0.06028. Assuming a significant level of 0.
 This process was repeated, performing one-sample t-tests on each manufacturing lot.  
 
 * For Lot 1, the p-value was 1.568e-11, which is smaller than the significance level of 0.05. We reject the null hypothesis and accept the alternative hypothesis that the sample and population means are statistically different. See Figure 1:
+
 ![Figure 1](/images/Lot1_T_Test.png)
+
 * For Lot 2, the p-value was 0.0005911, which is smaller than the significance level of 0.05. We reject the null hypothesis and accept the alternative hypothesis that the sample and population means are statistically different. See Figure 2:
+
 ![Figure 2](/images/Lot2_T_Test.png)
+
 * For Lot 3, the p-value was 0.1589, which is larger than the significance level of 0.05. We fail to reject the null hypothesis on this lot, indicating that population and sample means are statistically similar. See Figure 3:
+
 ![Figure 3](/images/Lot3_T_Test.png)
 
 ## MechaCar vs Competition
