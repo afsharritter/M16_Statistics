@@ -23,7 +23,7 @@ mpg = 6.27 vehicle_length + 1.25e-03 vehicle_weight + 6.88e-02 spoiler_angle + 3
 ```
 
 Coefficients:
-|                   |Estimate| Std. Error| t value |Pr(>|t|)|
+|                   |Estimate| Std. Error| t value |Pr(>t)|
 |-------------------|-------|-----------|-------|-----------|
 |(Intercept)     | -1.040e+02|  1.585e+01|  -6.559| 5.08e-08|
 |vehicle_length  |  6.267e+00|  6.553e-01|   9.563| 2.60e-12|
